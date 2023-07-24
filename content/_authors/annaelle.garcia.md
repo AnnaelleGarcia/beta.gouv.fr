@@ -9,5 +9,6 @@ missions:
 startups:
   - dora
 memberType: beta
+github: AnnaelleGarcia
 ---
 
